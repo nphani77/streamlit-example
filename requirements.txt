@@ -1,3 +1,7 @@
-altair
-pandas
+openai
+langchain
+docx2txt
+pypdf
 streamlit
+chromadb
+tiktoken
